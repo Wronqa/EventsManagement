@@ -16,7 +16,7 @@ if (!app.Environment.IsDevelopment())
 // test
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+// siema kurwa 
 app.UseRouting();
 
 app.UseAuthorization();
