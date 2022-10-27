@@ -20,7 +20,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+// dziala
 app.MapRazorPages();
 
 app.Run();
